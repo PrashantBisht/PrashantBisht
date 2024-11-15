@@ -7,7 +7,7 @@ Senior Software Engineer
 I am Senior Software Engineer wiith 8 YOE . I usually use github to do small POCs
 
 * 🌍  I'm based in India
-* 🧠  I'm learning React
+* 🧠  I'm a frontend engineer with 8YOE in Angular and React . I am currently learning Java and springboot
 
 ### Skills
 
